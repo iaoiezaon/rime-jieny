@@ -63,7 +63,7 @@ speller:
     - xform/oeu/ou/
     - xform/oueu/ou/
     - xform/aoo/ao/
-    - xform/ti/qi/
+    - xform/ti/ci/
     - xform/aou/au/
     - xform/zi/z/
     - xform/(dz|t?s)yu/$1y/
@@ -71,11 +71,14 @@ speller:
     - "abbrev/^(d|t|n|g)([aeiou]).+$/$1/"
     - "abbrev/^(ng|gn|dz|ts|nz).+$/$1/"
     - "abbrev/^(dg|tk|nng).+$/$1/"
-    - "derive/^(q|j|gn|x)i([ae])/$1$2/"
-    - "derive/^(q|j|gn|x)y(u)/$1$2/"
+    - "derive/^(c|j|gn|hs)i([ae])/$1$2/"
+    - "derive/^(c|j|gn|hs)y(u)/$1$2/"
     - derive/dg/b/                        # 模糊dg b
     - derive/tk/p/                        # 模糊tk p
     - derive/nng/m/                        # 模糊nng m
+    - derive/^c/q/
+    - derive/ c/ q/
+    - derive/hs/x/
     #- derive/(.*)aon/$1an/                        # 模糊前後an
     #- derive/(.*)aoq/$1aq/                         # 模糊前後aq
     #- derive/(.*)ien/$1in/                             # 模糊前後in
