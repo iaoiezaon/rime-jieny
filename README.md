@@ -118,16 +118,14 @@
 
 ## 已轉換的形式
 
-| ------------ | -------------- |
-| eui         | eu            |
-| eaq        | eq           |
-| aoqoe   | aoq         |
-| oeu        | ou           |
-| oueu     | ou            |
-| aoo       | ao            |
-| aou       | au            |
-| zi           | z               |
-| ------------ | -------------- |
+eui → eu
+eaq → eq
+aoqoe → aoq
+oeu → ou
+oueu → ou
+aoo → ao
+aou → au
+zi → z
 
 ### 設置模糊音
 
