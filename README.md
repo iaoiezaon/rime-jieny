@@ -68,7 +68,7 @@
 | yuei  | 揪jyuei                                                   |
 | ------- | ------------------------------------------------------- |
 | oe    | 後hoe 口koe 頭doe 走dzoe               |
-| ioe   | 狗goe                                                     |
+| ioe   | 狗gioe                                                     |
 | ------- | ------------------------------------------------------- |
 | ou    | 過gou 號hou 兆dzou 火hou               |
 | iou   | 要iou 秒nngiou 叫jiou 笑xiou            |
@@ -118,16 +118,16 @@
 
 ## 已轉換的形式
 
-eui → eu
-eaq → eq
-aoqoe → aoq
-oeu → ou
-oueu → ou
-aoo → ao
-aou → au
-zi → z
+### eui → eu
+### eaq → eq
+### aoqoe → aoq
+### oeu → ou
+### oueu → ou
+### aoo → ao
+### aou → au
+### zi → z
 
-### 設置模糊音
+## 設置模糊音
 
 這個方案預設的模糊音選項爲關閉狀態。要使用模糊音選項可打開`jieny.schema.yaml`文件，去掉 `speller/algebra:` 相應代碼的註釋。要是不區分in和ien，`speller/algebra:` 相應行應該改成：
 
