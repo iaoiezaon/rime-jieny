@@ -1,8 +1,8 @@
 # 嘉樂泉話的拼音輸入方案
 
-這個輸入方案是爲[中州韻輸入法引擎](https://rime.im/)設計的。
+這個輸入方案是基於[中州韻輸入法引擎](https://rime.im/)設計的。
 
-拼寫方案由iaoiezaon設計。
+拼寫方案由iaoiezaon設計。這個方案的設計參考了吳語學堂的拼音方案。
 
 ## 嘉樂泉話的拼音方案說明
 
@@ -137,3 +137,11 @@
 ```
 
 然後重部署一下就行。
+
+
+## 鳴謝
+
+- [Rime](https://rime.im/)
+- [Trime](https://github.com/osfans/trime)
+- [iRime](https://github.com/jimmy54/iRime)
+- [吳語學堂](https://www.wugniu.com)
