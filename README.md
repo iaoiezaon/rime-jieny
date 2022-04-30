@@ -37,7 +37,7 @@
 | j        | 就jiei 進jin 強jiau 加jia                        |
 | c       | 且ci 巧ciou 請cin 鐵cieq                    |
 | gn     | 逆gniq 年gnie 咬gniou 牙gnia         |
-| hs     | 學xiq 先xie 像hsiau 信hsien             |
+| hs     | 學hsiq 先hsie 像hsiau 信hsien             |
 | ------- | ------------------------------------------------------- |
 
 ### dg、tk、nng也可分別用b、p、m代替。
@@ -76,7 +76,7 @@
 | er     | 二er 兒er 耳er 而er                              |
 | ------- | ------------------------------------------------------- |
 | au    | 早dzau 好hau 上sau 張dzau             |
-| iau   | 講jiau 像xiau 樣iau 搶ciou                 |
+| iau   | 講jiau 像xiau 樣iau 搶ciau                 |
 | ------- | ------------------------------------------------------- |
 | ao    | 和hao 裝dzao 唱tsao 忙mao            |
 | iao   | 想hsiao 江jiao 陽iao 腔ciao              |
@@ -89,7 +89,7 @@
 | e       | 還he 版be 山se 蠻me                         |
 | ie      | 先hsie 年gnie 天cie 變bie                  |
 | ue     | 短due 關gue 暖nzue 亂lue                |
-| yue   | 選hsyue 園yue 捐jyue 緣yue             |
+| yue   | 選hsyue 遠yue 捐jyue 緣yue             |
 | ------- | ------------------------------------------------------- |
 | an    | 分fan 很han 甚san 文van                   |
 | ien   | 音ien 信hsien 親cien 品tkien             |
